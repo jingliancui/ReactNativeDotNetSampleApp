@@ -27,7 +27,7 @@
         <td>🤖 Package for legacy xamarin android</td>
     </tr>
         <tr>
-        <td>com.facebook.react.react-android</td>
+        <td>com.facebook.react.hermes-android</td>
         <td>
             <a href="https://www.nuget.org/packages/XamarinLibrary.Net.Android.Facebook.React.HermesAndroid/">
                 <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Net.Android.Facebook.React.HermesAndroid.svg?label=XamarinLibrary.Net.Android.Facebook.React.HermesAndroid"/>
